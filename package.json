@@ -1,0 +1,9 @@
+{
+  "name": "name-generator",
+  "version": "1.0.0",
+  "description": "Finnish name generator",
+  "main": "app.js",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
+}
