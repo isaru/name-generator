@@ -2,17 +2,23 @@
 
 ## Requirements
 
-Node and NPM.
+Node and npm.
 
 ## Usage
 
-Install local grunt
+Install grunt
+
+```
+$ npm install -g grunt-cli
+```
+
+Install dependencies
 
 ```
 $ npm install
 ```
 
-Generate json files from name lists
+Prepare json files from name lists
 
 ```
 $ grunt
