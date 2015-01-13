@@ -1,5 +1,7 @@
 # Finnish name generator
 
+Generates random Finnish names.
+
 ## Requirements
 
 Node and npm.
