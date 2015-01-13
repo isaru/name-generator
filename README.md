@@ -4,15 +4,9 @@ Generates random Finnish names.
 
 ## Requirements
 
-Node and npm.
+Node, npm and grunt.
 
 ## Usage
-
-Install grunt
-
-```
-$ npm install -g grunt-cli
-```
 
 Install dependencies
 
